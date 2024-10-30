@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: green;
+  color: orange;
+}
+
+img {
+  width: 50%;
+}
+
+canvas {
+  margin:auto;
+  display: block;
+}
